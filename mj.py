@@ -1,4 +1,6 @@
 
+
+#Creator M.Juli_2004
 import requests, os
 
 def cekip():
@@ -14,7 +16,7 @@ def iOsif():
  os.system('pkg install git python2')
  os.system('git clone https://github.com/ciku370/OSIF')
  os.system('cd OSIF')
- os.system('pip2 install -r requirements.txt')
+ os.system('pip2 install -r requirements.txt'
  os.system('python2 osif.py')
  
 
