@@ -17,7 +17,7 @@ echo -e $cyan
 python2 .login.py
 
 echo -e $red
-cowsay -f world.cow "WELCOME"
+cowsay -f eyes.cow "WELCOME"
 echo -e $green'======================================================================' 
 echo -e $red 
 figlet -f slant "Welcome" 
